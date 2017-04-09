@@ -59,5 +59,7 @@ public class MainActivity extends AppCompatActivity {
         int iii = i+ii;
 
         int j =  i+i+iii;
+        
+        int k = 3+3;
     }
 }
